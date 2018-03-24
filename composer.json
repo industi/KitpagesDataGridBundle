@@ -1,5 +1,5 @@
 {
-    "name": "kitpages/data-grid-bundle",
+    "name": "industi/data-grid-bundle",
     "type": "symfony-bundle",
     "description": "Symfony DataGridBundle",
     "keywords": ["Datagrid", "paginator", "filter", "sort"],
